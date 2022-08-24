@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, ReactJS, and more**
 
-- 👨‍💻 All of my projects are available at [working in portfolio site](working in portfolio site)
+- 👨‍💻 All of my projects are available at (working in portfolio site)
 
 - 📫 How to reach me **lordzspectron@gmail.com**
 
