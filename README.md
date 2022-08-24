@@ -1,6 +1,6 @@
 ### <div align="center">I'm Lordz, a amateur backend developer with great curiosity in full-stack since 2015👨‍💻</div>  
   
-- 🌱 I’m currently learning Laravel and ReactJS  
+- 🌱 I’m currently attending the 3rd year in Computer Network Technician and learning Laravel and ReactJS  
   
 
 - ❓Ask me about anything related to web and android studio  
