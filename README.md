@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lordz</h1>
+<h1 align="center">Hi 👋, I'm Kayck</h1>
 <h3 align="center">A amateur backend developer with great curiosity in full-stack since 2015👨‍</h3>
   
 - 🌱 I’m currently attending the 3rd year in Computer Network Technician and learning Laravel and ReactJS  
@@ -58,24 +58,24 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/LordzSpectron" target="_blank">
+<a href="https://github.com/KayckMatias" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19838721/" target="_blank">
+<a href="https://stackoverflow.com/users/19838721/" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </div>  
   
 <br/>  
 
 ## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=LordzSpectron&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,prs)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LordzSpectron&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LordzSpectron&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=KayckMatias&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,prs)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KayckMatias&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KayckMatias&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=LordzSpectron&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=KayckMatias&&style=flat-square" align="center" />
 </div>  
 
 <br />
