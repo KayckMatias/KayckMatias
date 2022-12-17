@@ -4,7 +4,7 @@
 - 🌱 I’m currently attending the 3rd year in Computer Network Technician and learning Laravel and VueJS  
   
 
-- ❓Ask me about web, security and android studio  
+- ❓ Ask me anything about technology
   
 
 - ⚡ Fun fact: I drink coffee like it's water  
