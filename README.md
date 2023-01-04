@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kayck</h1>
 <h3 align="center">A Jr. Backend Developer with great curiosity in full-stack since 2015👨‍</h3>
   
-- 🌱 I’m currently attending the 3rd year in Computer Network Technician and learning Laravel and VueJS  
+- 🌱 Learning Laravel and VueJS  
   
 
 - ❓ Ask me anything about technology
