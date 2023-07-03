@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kayck</h1>
-<h3 align="center">A Jr. Backend Developer with great curiosity in full-stack since 2015👨‍</h3>
+<h3 align="center">A Backend Developer with great curiosity in full-stack since 2015👨‍</h3>
   
 - 🌱 Learning Laravel and VueJS  
   
@@ -77,7 +77,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=KayckMatias&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=KayckMatias&style=flat-square" align="center" />
 </div>  
 
 <br />
